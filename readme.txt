@@ -20,3 +20,9 @@ python 1_preprocess_features_motion_sutd_swin.py --model Swin --question_type no
 5 Train and Test
 
 python train_SUTD_CTVQA_clip.py or python train_SUTD_CTVQA_clip.py 
+
+
+
+6 data source: (data+training model files)
+website：https://pan.baidu.com/s/1Qzig1terW3tyz_f1ssUL0A 
+key：64oc 
