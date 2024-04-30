@@ -21,7 +21,7 @@ python 1_preprocess_features_motion_sutd_swin.py --model Swin --question_type no
 
 5 Train and Test
 
-python train_SUTD_CTVQA_clip.py or python train_SUTD_CTVQA_clip.py 
+python train_SUTD_CTVQA_clip.py or python train_SUTD_CTVQA_swin.py 
 
 
 
